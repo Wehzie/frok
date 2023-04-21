@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 domain: wehzie.github.io/frok       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-baseurl: "docs" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://wehzie.github.io/frok/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -58,7 +58,7 @@ plugins:
 # GitHub pages required
 lsi: false
 safe: true
-source: ..
+source: .
 incremental: false
 highlighter: rouge
 gist:
