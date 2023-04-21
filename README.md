@@ -11,6 +11,7 @@ Install Ruby.
 Set up [Jekyll](https://jekyllrb.com/).
 
     gem install bundler jekyll
+    bundle add webrick
 
 ## Run local
 
