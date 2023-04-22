@@ -18,15 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+domain: wehzie.github.io      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: "https://wehzie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/frok" # the subpath of your site, e.g. /blog
+# source: ./docs
+
 title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-domain: wehzie.github.io/frok       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "https://wehzie.github.io/frok/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -58,7 +60,6 @@ plugins:
 # GitHub pages required
 lsi: false
 safe: true
-source: .
 incremental: false
 highlighter: rouge
 gist:
