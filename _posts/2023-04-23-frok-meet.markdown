@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Friends of Knowledge"
+title:  "FroK-meet"
 date:   2023-04-23 10:56:0 +0200
-categories: meta
+categories: event
 author: wehzie
 ---
 

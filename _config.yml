@@ -24,9 +24,9 @@ baseurl: "/frok" # the subpath of your site, e.g. /blog
 favicon: "favicon.png" # name+extension of favicon (which must be put on the root folder)
 # source: ./docs
 
-title: Friends of Knowledge
+title: FroK
 description: >- # this means to ignore newlines
-  Friends of Knowledge (FroK) is a group of people who are interested in learning and sharing knowledge.
+  FroK is a group of friends who are interested in learning and sharing knowledge.
 # Build settings
 theme: minima
 plugins:
