@@ -34,3 +34,7 @@ Examples:
 ## Who?
 
 People we know in person.
+
+---
+
+<a href="{{site.url}}/tree/master/{{page.relative_path}}">Edit this page.</a>
