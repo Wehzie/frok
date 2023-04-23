@@ -13,13 +13,13 @@ Set up [Jekyll](https://jekyllrb.com/).
     gem install bundler jekyll
     bundle add webrick
 
-## Run local
+## Run locally
 
 Navigate to project root.
 
     cd path/to/project
 
-Navigate to docs and run from project root.
+Start server and open in browser.
 
-    cd docs
-    bundle exec jekyll serve --source ..
+    bundle exec jekyll serve --livereload
+

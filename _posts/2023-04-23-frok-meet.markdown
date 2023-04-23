@@ -28,7 +28,7 @@ On [21. of May 2023, 20:00 (CEST)]({{site.baseurl}}/assets/2023-04-23-FroK-meet.
 participants 1..n
 for p in participants
     topic = p.present()
-    for c in participants:
+    for c in participants
         comment(topic)
 ```
 
