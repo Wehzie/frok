@@ -20,7 +20,7 @@ Asynchronous communication via Signal [group](https://signal.group/#CjQKIGAHhlxi
 
 ## When?
 
-On 21. of May 2023, 20:00 (CEST)
+On [21. of May 2023, 20:00 (CEST)]({{site.baseurl}}/assets/2023-04-23-FroK-meet.ics)
 
 ## How?
 
