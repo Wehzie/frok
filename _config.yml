@@ -22,7 +22,8 @@ domain: wehzie.github.io      # if you want to force HTTPS, specify the domain w
 url: "https://wehzie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/frok" # the subpath of your site, e.g. /blog
 favicon: "favicon.png" # name+extension of favicon (which must be put on the root folder)
-# source: ./docs
+
+version_control_url: "https://github.com/Wehzie/frok/blob/main/"
 
 title: FroK
 description: >- # this means to ignore newlines

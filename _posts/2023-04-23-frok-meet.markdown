@@ -37,4 +37,4 @@ People we know in person.
 
 ---
 
-<a href="{{site.url}}/tree/master/{{page.relative_path}}">Edit this page.</a>
+[Edit this page]({{site.version_control_url}}{{page.relative_path}})
