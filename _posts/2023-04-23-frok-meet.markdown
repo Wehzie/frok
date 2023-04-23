@@ -20,16 +20,25 @@ Asynchronous communication via Signal [group](https://signal.group/#CjQKIGAHhlxi
 
 ## When?
 
-21. of May 2023, 20:00 (CEST)
+On 21. of May 2023, 20:00 (CEST)
 
 ## How?
 
-Examples:
+```
+participants 1..n
+for p in participants
+    topic = p.present()
+    for c in participants:
+        comment(topic)
+```
+
+`present` examples:
 
 - Read a paper? Doodle to summarize key algorithm.
 - Working on your thesis? Slide to summarize what's been done this month.
 - Saw a video? Link to most important time stamp.
-- Had an idea? Table, relevance, pros, cons.
+- Had an idea? Pros, cons, difficulties.
+- Have a question? ChatGPT's answer.
 
 ## Who?
 
