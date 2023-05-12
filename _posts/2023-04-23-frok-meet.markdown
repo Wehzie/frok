@@ -10,6 +10,11 @@ author: wehzie
 
 Let's meet and talk about stuff we're working on, have read or seen.
 
+## Why?
+
+To share ideas.
+Because we know each other, our expertise is easily available to each other.
+
 ## Where?
 
 Online via [Jitsi Meet](https://meet.jit.si/).
@@ -42,7 +47,35 @@ for p in participants
 
 ## Who?
 
-People we know in person.
+List of invited people.
+Let me know if you would like your name to be hidden.
+
+- Victoria. Philosophy, Art, Education
+- Johannes. Computer science, Film, Art, Music
+- Luca. Computer science, Economics
+- Jannik. Physiotherapy, Martial Arts
+- Timen. Artificial Intelligence
+- Goncalo. Artificial Intelligence, Education
+- Lisa. Physics
+- Aaron. Cognitive Science
+- Marta. Artificial Intelligence, Music
+- Nilma. Artificial Intelligence
+- Isaiah. Artificial Intelligence, Software Development
+- Nidhi. Astronomy
+- Maciek. Public Relations
+- Livia. Artificial Intelligence
+- Leonidas. Artificial Intelligence
+- Luuk. Artificial Intelligence
+- Lazar. Artificial Intelligence, Martial Arts, Event Management
+- Sander. Artificial Intelligence, Music
+- Rafael. Artificial Intelligence, Medicine
+- Nils. Computer Science, Artificial Intelligence
+- Jonas. Physics, Data Science
+- Robin. Medicine
+- Laura. Psychology
+- Dirk. Electrical Engineering
+- Nikolas. Mechatronics, Artificial Intelligence
+- Otis. Physics, Finance, Computer Science
 
 ---
 
