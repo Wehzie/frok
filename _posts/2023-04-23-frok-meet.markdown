@@ -17,8 +17,8 @@ Because we know each other, our expertise is easily available to each other.
 
 ## Where?
 
-Online via [Jitsi Meet](https://meet.jit.si/).
-Link by invitation.
+Online via Jitsi Meet. Join [here](https://meet.jit.si/moderated/197e942656ccf676e502070bcfd23bd9f8ec94d343e471c3beb0887543fd981c)
+
 Asynchronous communication via Signal [group](https://signal.group/#CjQKIGAHhlxis2kyvc4qQYZQzZVKU-WamcbwhX1ml7Fhkr2YEhDHYoSSHgkMYbrEiJiR6gT_).
 
 ![QR code]({{site.baseurl}}/assets/signal_group_join.png)
