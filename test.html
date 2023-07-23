@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <form method="post"
+    action="https://civs1.civs.us/cgi-bin/vote.pl"
+    enctype="multipart/form-data"
+    name="CastVote"
+    onsubmit="return doublecheck_ballot()">
+    <input type="hidden" name="key" value="f39a050f2dbf0bbd"  /><input type="hidden" name="key" value="f39a050f2dbf0bbd"  />
+    <input type="hidden" name="id" value="E_397647d82c1fded8"  /><input type="hidden" name="id" value="E_397647d82c1fded8"  />
+    <input type="hidden" name="akey" value="efe976b45b1704d5"  />
+    <table class="form" id="ballot" border="0" cellpadding="5" cellspacing="0"><tr><td>
+        <table cellpadding="5px" cellspacing="0" border="1" id="preftable">
+            <tr class="heading">
+                <th> Kandidat </th><th>Rang</th></tr>
+                <tr onclick="select_row(this, event.shiftKey||event.ctrlKey);"><td class="choice">Geoffrey Hinton, 2023. The Forward-Forward Algorithm: Some Preliminary Investigation. https://arxiv.org/abs/2212.13345</td>
+                    <td><select size="1" name="C0" onchange="sort_rows()">
+                        <option value="1" label="1" >1</option>
+                        <option value="2" label="2"  selected="selected">2</option>
+                        <option>No opinion</option></select></td>
+                    </tr>
+                    <tr onclick="select_row(this, event.shiftKey||event.ctrlKey);"><td class="choice">Peng et al., 2023, RWKV: Reinventing RNNs for the Transformer Era. https://arxiv.org/abs/2305.13048</td>
+                        <td><select size="1" name="C1" onchange="sort_rows()">
+                            <option value="1" label="1" >1</option>
+                            <option value="2" label="2"  selected="selected">2</option>
+                            <option>No opinion</option></select></td>
+                        </tr>
+                    </table></td>
+                </tr>
+                <tr><td style="height: 100%"><input id="vote" type="submit" value="Stimme abgeben" name="Vote" /></td></tr>
+</table>
+</form>
+
+<form method="post"
+action="https://civs1.civs.us/cgi-bin/vote.pl"
+enctype="multipart/form-data"
+name="AddWritein">
+<p>Einen weiteren Kandidaten nominieren: 
+    <input type="text" size="60" name="writein" /><input type="submit" value="Add write-in" name="AddWritein" /></p>
+    <input type="hidden" name="key" value="f39a050f2dbf0bbd"  /><input type="hidden" name="key" value="f39a050f2dbf0bbd"  /><input type="hidden" name="id" value="E_397647d82c1fded8"  /><input type="hidden" name="id" value="E_397647d82c1fded8"  /><input type="hidden" name="akey" value="efe976b45b1704d5"  /></form>
+    <span id="doublecheck_msg" style="display: none">Your ballot will have no effect because all candidates on which you have an opinion are tied. Do you still want to submit?</span><span id="need_id_msg" style="display: none">Sorry, you must identify yourself in order to vote.</span><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script src="https://civs1.civs.us/vote.js"></script>
+    <script>setup()</script>
+    
+</body>
+</html>
