@@ -12,9 +12,8 @@ Let's read a paper, then present, discuss and inquire.
 
 ## Why?
 
-To learn about what our circle consider relevant work.
-To seed ideas.
-To embrace habit and our social circle.
+To learn about what our circle considers relevant work.
+To seed and share ideas, to embrace habit and to enjoy.
 
 ## Where?
 
@@ -34,7 +33,7 @@ The resulting date will be announced here.
 
 ## How?
 
-1. You may 1) propose papers 2) vote on papers, [here](https://civs1.civs.us/cgi-bin/vote.pl?id=E_397647d82c1fded8&akey=efe976b45b1704d5).
+1. You may 1) propose papers 2) vote on papers, [here](https://civs1.civs.us/cgi-bin/vote.pl?id=E_397647d82c1fded8&akey=efe976b45b1704d5). Paper selection closes on the 31st of July 2023.
 2. Before the Paper Circle, an attendee may choose to present the paper, if so, this will be recorded here.
 3. Attendees discuss.
     - Judge the quality and impact of the paper.
