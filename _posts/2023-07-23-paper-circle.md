@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FroK Journal Club"
+title:  "PaCi the Paper Circle"
 date:   2023-07-23 23:05:00 +0200
 categories: event
 author: wehzie
@@ -9,6 +9,7 @@ author: wehzie
 ## What?
 
 Let's read a paper, then present, discuss and inquire.
+Basically, a journal club.
 
 ## Why?
 
@@ -33,7 +34,7 @@ The resulting date will be announced here.
 
 ## How?
 
-1. You may 1) propose papers 2) vote on papers, [here](https://civs1.civs.us/cgi-bin/vote.pl?id=E_397647d82c1fded8&akey=efe976b45b1704d5). Paper selection closes on the 31st of July 2023.
+1. You may 1) propose papers 2) vote on papers, at [Condorcet Internet Voting Service](https://civs1.civs.us/cgi-bin/vote.pl?id=E_397647d82c1fded8&akey=efe976b45b1704d5). Paper selection closes on the 31st of July 2023.
 2. Before meeting, an attendee may choose to present the paper, if so, this will be recorded here.
 3. Attendees discuss.
     - Judge the quality and impact of the paper.
