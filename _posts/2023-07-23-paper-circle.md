@@ -60,8 +60,6 @@ Let me know if you would like your name to be hidden.
 - Livia. Artificial Intelligence
 - Leonidas. Artificial Intelligence
 - Luuk. Artificial Intelligence
-- Lazar. Artificial Intelligence, Martial Arts, Event Management
-- Sander. Artificial Intelligence, Music
 - Rafael. Artificial Intelligence, Medicine
 - Nils. Computer Science, Artificial Intelligence
 - Jonas. Physics, Data Science
@@ -72,7 +70,7 @@ Let me know if you would like your name to be hidden.
 - Chris. Mathematics
 - Daniel. Computer Science, Entrepreneurship
 - Yusmi. Computer Science
-- Tesse. Physics, Applied Physics
+- Tesse. Physics, Applied Physics, Neuromorphic Computing
 - Andra. Artificial Intelligence, Philosophy
 - Eduard. Artificial Intelligence, Data Science
 - Zeynep. Artificial Intelligence, Data Science
