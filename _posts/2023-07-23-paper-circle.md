@@ -28,7 +28,7 @@ Join our Signal [group](https://signal.group/#CjQKIGAHhlxis2kyvc4qQYZQzZVKU-Wamc
 ## When?
 
 In the week of 7th to 13th of August 2023.
-Please vote on [Rallly](https://app.rallly.co/poll/5bMEHVjJF9ek) for a bi-weekly time slot.
+Please vote on [Rallly](https://rallly.co/invite/5bMEHVjJF9ek) for a bi-weekly time slot.
 Voting closes on the 30th of July.
 The resulting date will be announced here.
 
@@ -76,6 +76,7 @@ Let me know if you would like your name to be hidden.
 - Andra. Artificial Intelligence, Philosophy
 - Eduard. Artificial Intelligence, Data Science
 - Zeynep. Artificial Intelligence, Data Science
+- Davide. Physics, Neuromorphic Computing
 
 ---
 
