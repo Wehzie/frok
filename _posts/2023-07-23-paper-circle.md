@@ -49,10 +49,10 @@ The resulting date will be announced here.
 List of invited people.
 Let me know if you would like your name to be hidden.
 
-- Johannes. Computer science, Film, Art, Music
 - Timen. Artificial Intelligence
 - Goncalo. Artificial Intelligence, Education
 - Lisa. Physics
+- Laura. Psychology
 - Aaron. Cognitive Science
 - Marta. Artificial Intelligence, Music
 - Isaiah. Artificial Intelligence, Software Development
