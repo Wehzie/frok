@@ -18,8 +18,7 @@ To seed and share ideas, to embrace habit and to enjoy.
 
 ## Where?
 
-Online via Jitsi Meet.
-The link to the event will be available here shortly before the beginning of the event.
+Online via Jitsi Meet. Join [here](https://meet.jit.si/moderated/688f9c1ae8de7318c8ea63c45fa7d0b6979770a0350469b63174d5347288a8d7).
 
 Join our Signal [group](https://signal.group/#CjQKIGAHhlxis2kyvc4qQYZQzZVKU-WamcbwhX1ml7Fhkr2YEhDHYoSSHgkMYbrEiJiR6gT_) for asynchronous communication.
 
@@ -27,22 +26,18 @@ Join our Signal [group](https://signal.group/#CjQKIGAHhlxis2kyvc4qQYZQzZVKU-Wamc
 
 ## When?
 
-In the week of 7th to 13th of August 2023.
-Please vote on [Rallly](https://rallly.co/invite/5bMEHVjJF9ek) for a bi-weekly time slot.
-Voting closes on the 30th of July.
-The resulting date will be announced here.
+Thursday, 17th of August from 18:00 to 19:15 CEST.
+We voted on [Rallly](https://rallly.co/invite/5bMEHVjJF9ek).
 
 ## How?
 
-1. You may 1) propose papers 2) vote on papers, at [Condorcet Internet Voting Service](https://civs1.civs.us/cgi-bin/vote.pl?id=E_397647d82c1fded8&akey=efe976b45b1704d5). Paper selection closes on the 31st of July 2023.
-2. Before meeting, an attendee may choose to present the paper, if so, this will be recorded here.
+1. We read Geoffrey Hinton, 2023. The Forward-Forward Algorithm: Some Preliminary Investigation. https://arxiv.org/abs/2212.13345
+2. Before meeting, an attendee may choose to present the paper, if so, this will be recorded here. The presenter may take inspiration from this [guide](https://bitesizebio.com/13633/journal-club-guide/).
 3. Attendees discuss.
     - Judge the quality and impact of the paper.
     - Ask questions of clarification.
     - Propose related papers.
     - Make connections to other areas of research.
-
-![QR code]({{site.baseurl}}/assets/2023_08_1_paper_selection.png)
 
 ## Who?
 
