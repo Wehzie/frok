@@ -32,12 +32,14 @@ We voted on [Rallly](https://rallly.co/invite/5bMEHVjJF9ek).
 ## How?
 
 1. We read Geoffrey Hinton, 2023. The Forward-Forward Algorithm: Some Preliminary Investigation. https://arxiv.org/abs/2212.13345
-2. Before meeting, an attendee may choose to present the paper, if so, this will be recorded here. The presenter may take inspiration from this [guide](https://bitesizebio.com/13633/journal-club-guide/).
+2. Gonçalo will introduce the paper.
 3. Attendees discuss.
     - Judge the quality and impact of the paper.
     - Ask questions of clarification.
     - Propose related papers.
     - Make connections to other areas of research.
+
+Presenter and attendees may take inspiration from this [guide](https://bitesizebio.com/13633/journal-club-guide/) to journal clubbing.
 
 ## Who?
 
@@ -45,7 +47,7 @@ List of invited people.
 Let me know if you would like your name to be hidden.
 
 - Timen. Artificial Intelligence
-- Goncalo. Artificial Intelligence, Education
+- Gonçalo. Artificial Intelligence, Education
 - Lisa. Physics
 - Laura. Psychology
 - Aaron. Cognitive Science
