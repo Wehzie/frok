@@ -27,7 +27,7 @@ Join our Signal [group](https://signal.group/#CjQKIGAHhlxis2kyvc4qQYZQzZVKU-Wamc
 
 ## When?
 
-Thursday, [7th of September](2023y_08m_24d-PaCi-2.ics) 2023 from 18:00 to 19:15 CEST.
+Thursday, [7th of September]({{site.baseurl}}/assets/2023y_08m_24d-PaCi-2.ics) 2023 from 18:00 to 19:15 CEST.
 Feel free to leave earlier or to stay longer.
 
 ## How?
