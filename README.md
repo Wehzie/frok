@@ -1,6 +1,6 @@
-# frok | [𓆏](https://wehzie.github.io/frok/)
+# frok | [🐸](https://wehzie.github.io/frok/)
 
-A group of friends who like to share cool projects.
+A group of friends who like to share and discuss ideas.
 
 ## Install requirements
 
