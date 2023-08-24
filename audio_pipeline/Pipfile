@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+nltk = "*"
+openai = "*"
+speechrecognition = "*"
+transformers = "*"
+torch = "*"
+langchain = "*"
+huggingface-hub = "*"
+diffusers = "*"
+accelerate = "*"
+einops = "*"
+xformers = "*"
+flask = "*"
+folium = "*"
+geopy = "*"
+spacy = "*"
+dowhy = "*"
+owlready2 = "*"
+werkzeug = "*"
+sklearn = "*"
+pgmpy = "*"
+pyvis = "*"
+pyttsx3 = "*"
+google-cloud-speech = "*"
+google-cloud-texttospeech = "*"
+sounddevice = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
