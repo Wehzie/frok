@@ -32,7 +32,7 @@ Feel free to leave earlier or to stay longer.
 
 ## How?
 
-1. You may 1) propose papers and 2) vote on papers, at [Condorcet Internet Voting Service](https://civs1.civs.us/cgi-bin/vote.pl?id=E_a24b4a27a384927c&akey=5f9911903c95918c). Paper selection closes on the 31st of August 2023. When adding a paper, consider adding its abstract. Rely on the abstracts to inform votes.
+1. We read Jaeger, H. (2021). Towards a generalized theory comprising digital, neuromorphic and unconventional computing. Neuromorphic Computing and Engineering, 1(1), 012002. https://doi.org/10.1088/2634-4386/abf151
 2. Before meeting, an attendee may choose to present the paper, if so, this will be recorded here.
 3. Attendees discuss.
     - Judge the quality and impact of the paper.
@@ -40,7 +40,7 @@ Feel free to leave earlier or to stay longer.
     - Propose related papers.
     - Make connections to other areas of research.
 
-![QR code]({{site.baseurl}}/assets/2023y_08m_24d_2_paper_selection.png)
+Presenter and attendees may take inspiration from this guide to journal clubbing.
 
 ## Who?
 
