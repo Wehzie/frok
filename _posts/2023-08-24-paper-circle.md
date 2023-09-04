@@ -40,7 +40,7 @@ Feel free to leave earlier or to stay longer.
     - Propose related papers.
     - Make connections to other areas of research.
 
-Presenter and attendees may take inspiration from this guide to journal clubbing.
+Presenter and attendees may take inspiration from this [guide](https://bitesizebio.com/13633/journal-club-guide/) to journal clubbing. The [results](https://civs1.civs.us/cgi-bin/results.pl?id=E_a24b4a27a384927c) of our voting are visible on condorcet voting.
 
 ## Who?
 
