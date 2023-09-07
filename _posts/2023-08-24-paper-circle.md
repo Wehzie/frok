@@ -18,8 +18,7 @@ To seed and share ideas, to embrace habit and to enjoy.
 
 ## Where?
 
-Online via Jitsi Meet.
-The link to the event will be available here shortly before the beginning of the event.
+Online via [Jitsi Meet](https://meet.jit.si/elderlyoddsassurepretty).
 
 Join our Signal [group](https://signal.group/#CjQKIGAHhlxis2kyvc4qQYZQzZVKU-WamcbwhX1ml7Fhkr2YEhDHYoSSHgkMYbrEiJiR6gT_) for asynchronous communication.
 
