@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3nd PaCi the Paper Circle"
+title:  "3rd PaCi the Paper Circle"
 date:   2023-09-15 13:17:00 +0200
 categories: event
 author: wehzie
