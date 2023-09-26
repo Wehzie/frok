@@ -26,12 +26,12 @@ Also join our Signal [group](https://signal.group/#CjQKIGAHhlxis2kyvc4qQYZQzZVKU
 
 ## When?
 
-Thursday, [28th of September]({{site.baseurl}}/assets/2023y-09m-29d-3rd-PaCi-the-Paper-Circle.ics) 2023 from 18:00 to 19:15 CEST.
+Thursday, [5th of October]({{site.baseurl}}/assets/2023y-09m-29d-3rd-PaCi-the-Paper-Circle.ics) (~~28th of September~~) 2023 from 18:00 to 19:15 CEST.
 Feel free to leave earlier or to stay longer.
 
 ## How?
 
-1. You may 1) propose papers 2) vote on papers, at [Condorcet Internet Voting Service](https://civs1.civs.us/cgi-bin/vote.pl?id=E_28b6e34b36ca3fbd&akey=813c227fc18760ea). Paper selection closes on the 21st of September 2023.
+1. We read Borsboom D. A network theory of mental disorders. World Psychiatry. 2017 Feb;16(1):5-13. doi: 10.1002/wps.20375. PMID: 28127906; PMCID: PMC5269502.
 2. Before meeting, an attendee may choose to present the paper, if so, this will be recorded here.
 3. Attendees discuss.
     - Judge the quality and impact of the paper.
@@ -39,9 +39,7 @@ Feel free to leave earlier or to stay longer.
     - Propose related papers.
     - Make connections to other areas of research.
 
-Presenter and attendees may take inspiration from this [guide](https://bitesizebio.com/13633/journal-club-guide/) to journal clubbing.
-
-![QR code]({{site.baseurl}}/assets/2023y_09m_15d_paci3_paper_selection.png)
+Presenter and attendees may take inspiration from this [guide](https://bitesizebio.com/13633/journal-club-guide/) to journal clubbing. The [results](https://civs1.civs.us/cgi-bin/vote.pl?id=E_28b6e34b36ca3fbd&akey=813c227fc18760ea) of our voting are visible on condorcet voting.
 
 ## Who?
 
