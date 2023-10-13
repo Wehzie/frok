@@ -28,7 +28,7 @@ Join our Signal [group](https://signal.group/#CjQKIGAHhlxis2kyvc4qQYZQzZVKU-Wamc
 
 ## When?
 
-WEEKDAY, [26 of October]({{site.baseurl}}/assets/2023-10-13.ics) 2023 from 18:00 to 19:15 CEST.
+Thursday, [26 of October]({{site.baseurl}}/assets/2023-10-13.ics) 2023 from 18:00 to 19:15 CEST.
 Feel free to leave earlier or to stay longer.
 
 ## How?
