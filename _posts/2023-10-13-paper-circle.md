@@ -61,6 +61,7 @@ Let me know if you would like your name to be hidden.
 - Nils. Computer Science, Artificial Intelligence
 - Jonas. Physics, Data Science
 - Robin. Medicine
+- Lisa. Medicine
 - Dirk. Electrical Engineering
 - Nikolas. Mechatronics, Artificial Intelligence
 - Otis. Physics, Finance, Computer Science
