@@ -69,7 +69,7 @@ Let me know if you would like your name to be hidden.
 - Yusmi. Computer Science
 - Tesse. Physics, Applied Physics, Neuromorphic Computing
 - Andra. Artificial Intelligence, Philosophy
-
+- Tianai. Artificial Intelligence, Neuroscience
 ---
 
 [Edit this page]({{site.version_control_url}}{{page.relative_path}})
