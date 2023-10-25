@@ -33,7 +33,7 @@ Feel free to leave earlier or to stay longer.
 
 ## How?
 
-1. You may 1) propose papers 2) vote on papers, at [Condorcet Internet Voting Service](https://civs1.civs.us/cgi-bin/vote.pl?id=E_f19684cb58b3ad78&akey=fdcd3eb6f8b55ffa). Paper selection closes on the 19 of October 2023. Note that proposing a paper doesn't require presenting it.
+1. We read Poisson Flow Generative Models by Yilun Xu, Ziming Liu, Max Tegmark, Tommi Jaakkola (2022). Available on [arXiv](https://arxiv.org/abs/2209.11178).
 2. Before meeting, an attendee may choose to present the paper, if so, this will be recorded here. Without a presenter, we may go over the paper together. In case all of us slacked, we may take the abstract as a starting point for discussion.
 3. Attendees discuss.
     - Judge the quality and impact of the paper.
